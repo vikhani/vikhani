@@ -9,6 +9,29 @@
 
 ### and also **Liquibase**, **MyBatis** and some experience with **Hazelcast**
 ----
+## 🧑‍💻 About me
+- ☕️ I've been a **Java Dev** for **2 years**
+- 🏦 My commersial experience consists of writing backend banking systems for the top Russian banks
+- 😏 I have **6 years of experience overall** - I switched from C++/C# to Java
+- ⌨️ Wrote some [articles](https://habr.com/ru/users/vkhanieva/publications/articles/) promoting static analysis usage
+- 🎓 Have a Bachelor in Applied mathematics and informatics
+
+### But the experience must speak for itself, so
+- **[My resume page](https://vikhani.github.io/resume/)**
+- **Or you can [download a pdf directly](https://vikhani.github.io/resume/files/resume.pdf)**
+
+## ✍️ Contact me here
+<div id="badges">
+  <a href="linkedin.com/in/vikhanieva">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  </a>
+  <a href="https://t.me/vkhanieva">
+    <img src="https://img.shields.io/badge/telegram-blue?logo=telegram&logoColor=white&style=for-the-badge" alt="Telegram Badge"/>
+  </a>
+</div>
+
+
+**or via email [vikhanieva@gmail.com](vikhanieva@gmail.com)**
 <!--
 **vikhani/vikhani** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
