@@ -45,8 +45,9 @@
 
 **or via email [vikhanieva@gmail.com](vikhanieva@gmail.com)**
 
-## 🧑‍💻 Last week I did
+<!--- ## 🧑‍💻 Last week I did
 <img
   src="https://github.com/vikhani/vikhani/blob/main/images/stat.svg"
   alt="WakaTime Activity"
 />
+-->
