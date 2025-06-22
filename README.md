@@ -22,9 +22,9 @@
 
 ----
 ## 🧑‍💻 About me
-- ☕️ I've been a **Java Dev** for **2 years**
+- ☕️ I've been a **Java Dev** for **3 years**
 - 🏦 My commersial experience consists of writing backend banking systems for the top Russian banks
-- 😏 I have **6 years of experience overall** - I switched from C++/C# to Java
+- 😏 I have **7 years of experience overall** - I switched from C++/C# to Java
 - ⌨️ Wrote some [articles](https://habr.com/ru/users/vkhanieva/publications/articles/) promoting static analysis usage
 - 🎓 Have a Bachelor in Applied mathematics and informatics
 
