@@ -27,7 +27,7 @@
 - 🎓 Have a Bachelor in Applied mathematics and informatics
 
 ### But the experience must speak for itself, so
-- **[My resume page](https://vikhani.github.io/resume/)**
+- **[My resume page](https://vikhani.github.io/my-resume/)**
 - **Or you can [download a pdf directly](https://vikhani.github.io/resume/files/resume.pdf)**
 
 ## ✍️ Contact me
