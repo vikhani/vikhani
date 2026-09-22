@@ -28,8 +28,8 @@
 
 ### But the experience must speak for itself, so
 - **[My resume page](https://vikhani.github.io/my-resume/)**
-- **Or you can [download a pdf directly](https://vikhani.github.io/resume/files/resume.pdf)**
-
+- Or download directly: **[PDF (EN)](https://vikhani.github.io/my-resume/assets/pdf/Khanieva_Viktoria_Resume_EN.pdf)** · **[PDF (RU)](https://vikhani.github.io/my-resume/assets/pdf/Khanieva_Viktoria_Resume_RU.pdf)**
+  
 ## ✍️ Contact me
 <div id="badges">
   <a href="linkedin.com/in/vikhanieva">
